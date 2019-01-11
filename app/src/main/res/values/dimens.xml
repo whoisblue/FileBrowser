@@ -1,0 +1,7 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="file_browser_horizontal_margin_item">16dp</dimen>
+    <dimen name="file_browser_vertical_margin_item">5dp</dimen>
+    <dimen name="file_browser_thumbnail_image_size">40dp</dimen>
+    <dimen name="file_browser_item_text_size">20dp</dimen>
+</resources>
